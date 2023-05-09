@@ -1,0 +1,95 @@
+.burger {
+    border-right: 2px solid grey;
+    border-bottom: 2px solid grey;
+    padding: 1rem;
+    margin-bottom: 0;
+}
+
+li {
+    background-color: #fbe5d6;
+}
+
+li:nth-child(odd) {
+    background-color: #dae3f4;
+}
+
+.MuiSvgIcon-root {
+    display: none !important;
+}
+
+.create {
+    color: yellow;
+    background-color: #4472c4;
+    height: 40px;
+    width: 90px;
+    text-align: center;
+
+}
+
+.table thead th,
+table td {
+    border: 2px solid white;
+}
+
+.table-head {
+    background-color: #4572c6;
+
+}
+
+.table-body {
+    background-color: #cfd5eb;
+}
+
+.model-info input {
+    border-radius: 0;
+    border: 1px solid rgb(90, 83, 232);
+}
+
+.security-table {
+    display: block;
+    height: 15rem;
+    overflow-y: scroll;
+}
+
+.security-table tr {
+    display: block;
+}
+
+.security-table th {
+    display: block;
+}
+
+.security-table td {
+    display: block;
+}
+
+.security-table tr:nth-child(odd) {
+    background-color: #fbe5d6;
+}
+
+.security-table tr:nth-child(even) {
+    background-color: #dae3f4;
+}
+
+.input-percent input {
+    width: 6rem;
+    height: 1.5rem;
+    border: 1px solid blueviolet;
+}
+
+.table-body tr:nth-child(odd) {
+    background-color: #CFD5EA;
+}
+
+.table-body tr:nth-child(even) {
+    background-color: #E9EBF5;
+}
+
+#myModal {
+    margin-top: 270px;
+}
+
+.red span {
+    color: red;
+}
+
